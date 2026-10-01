@@ -84,4 +84,4 @@ This repository integrates core machine learning concepts ranging from basic dat
 ## 👤 Author & Acknowledgments
 
 - **Author**: Vicky Raj
-- **Curriculum & Core Concepts**: Inspired by 140 Days of Machine Learning & Custom ML Code Experiments.
+- **Curriculum & Core Concepts**: Inspired by 100 Days of Machine Learning by CampusX and Rayan & Matt.
