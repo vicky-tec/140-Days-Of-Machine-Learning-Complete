@@ -56,7 +56,7 @@ This repository integrates core machine learning concepts ranging from basic dat
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/100-Days-Of-Machine-Learning-Complete.git
+   git clone https://github.com/vicky-tec/100-Days-Of-Machine-Learning-Complete.git
    cd 100-Days-Of-Machine-Learning-Complete
    ```
 
