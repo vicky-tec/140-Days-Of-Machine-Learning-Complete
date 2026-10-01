@@ -1,6 +1,6 @@
-# 🚀 100 Days of Machine Learning & Custom Code Implementations
+# 🚀 140 Days of Machine Learning & Custom Code Implementations
 
-Welcome to the **100 Days of Machine Learning** repository! This repository combines a structured curriculum of Machine Learning theory, math, code from scratch, and custom-designed Jupyter Notebooks complete with interactive visualizations and clean data preprocessing workflows.
+Welcome to the **140 Days of Machine Learning** repository! This repository combines a structured curriculum of Machine Learning theory, math, code from scratch, and custom-designed Jupyter Notebooks complete with interactive visualizations and clean data preprocessing workflows.
 
 ---
 
@@ -56,8 +56,8 @@ This repository integrates core machine learning concepts ranging from basic dat
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/vicky-tec/100-Days-Of-Machine-Learning-Complete.git
-   cd 100-Days-Of-Machine-Learning-Complete
+   git clone https://github.com/vicky-tec/140-Days-Of-Machine-Learning-Complete.git
+   cd 140-Days-Of-Machine-Learning-Complete
    ```
 
 2. **Set up Virtual Environment**:
@@ -84,4 +84,4 @@ This repository integrates core machine learning concepts ranging from basic dat
 ## 👤 Author & Acknowledgments
 
 - **Author**: Vicky Raj
-- **Curriculum & Core Concepts**: Inspired by 100 Days of Machine Learning & Custom ML Code Experiments.
+- **Curriculum & Core Concepts**: Inspired by 140 Days of Machine Learning & Custom ML Code Experiments.
